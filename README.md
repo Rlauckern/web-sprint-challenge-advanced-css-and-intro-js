@@ -44,11 +44,11 @@ Please answer the following questions below, you may edit the readme file to inc
 
 5. How do you access a key inside of an object inside of an array?
 
+ you can access the key in the code by firt calling on the array and then the index it is. Suck as in the array called people, i want their ages, so peeople.age would search through that category.
 
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
-    you can access the key in the code by firt calling on the array and then the index it is. Suck as in the array called people, i want their ages, so peeople.age would search through that category.
 
 ## Instructions
 
